@@ -1,4 +1,4 @@
-datasets/
+data/*
 test/
 __pychache__/
 .vscode/
